@@ -1,3 +1,6 @@
 *.txt
 .idea
 .vscode
+build
+dist
+*.spec
